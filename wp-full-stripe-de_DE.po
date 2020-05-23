@@ -8,8 +8,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-03-08 00:06+0100\n"
-"X-Generator: Poedit 2.0.6\n"
+"PO-Revision-Date: 2020-05-23 02:51+0200\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
 "_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
 "esc_html_x:1,2c\n"
@@ -25,7 +25,8 @@ msgstr ""
 #: include/edd/WPFS_EDD_SL_Plugin_Updater.php:189
 msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
 msgstr ""
-"Es ist eine neue Version von %1$s verfügbar. %2$s Ansicht Version %3$s Details %4$"
+"Es ist eine neue Version von %1$s verfügbar. %2$s Ansicht Version %3$s Details "
+"%4$s."
 
 #: include/edd/WPFS_EDD_SL_Plugin_Updater.php:197
 msgid ""
@@ -37,7 +38,7 @@ msgstr ""
 
 #: include/edd/WPFS_EDD_SL_Plugin_Updater.php:340
 msgid "You do not have permission to install plugin updates"
-msgstr "Sie haben keine Berechtigung zum Installieren von Plugin-Updates."
+msgstr "Sie haben keine Berechtigung zum Installieren von Plugin-Updates"
 
 #: include/edd/WPFS_EDD_SL_Plugin_Updater.php:340
 msgid "Error"
@@ -87,7 +88,7 @@ msgstr "Pflichtfeld."
 #: include/wp-full-stripe-admin.php:1014
 msgid "Please enter a valid email address or leave the field empty"
 msgstr ""
-"Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer."
+"Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer"
 
 #: include/wp-full-stripe-admin.php:1303
 msgid "There was an error creating the recipient: %s"
@@ -147,8 +148,7 @@ msgstr "Falsche Daten wurden übermittelt."
 #: include/wp-full-stripe-customer.php:810 include/wp-full-stripe-customer.php:1052
 msgid "Invalid form name or form not found"
 msgstr ""
-"Ungültiger Formularname oder Formular nicht vorhanden oder Formular nicht "
-"gefunden."
+"Ungültiger Formularname oder Formular nicht vorhanden oder Formular nicht gefunden"
 
 #: include/wp-full-stripe-customer.php:270 include/wp-full-stripe-customer.php:532
 #: include/wp-full-stripe-customer.php:818 include/wp-full-stripe-customer.php:1060
@@ -181,7 +181,7 @@ msgstr "Unbekannter Formulartyp: %s"
 
 #: include/wp-full-stripe-customer.php:685 include/wp-full-stripe-customer.php:897
 msgid "Please enter a valid shipping address."
-msgstr "Bitte geben Sie Eine gültige Adresse ein"
+msgstr "Bitte geben Sie Eine gültige Adresse ein."
 
 #: include/wp-full-stripe-customer.php:1075
 msgid "This coupon has expired."
@@ -193,7 +193,7 @@ msgstr "Der Gutschein word erfolgreich hinzugefügt."
 
 #: include/wp-full-stripe-customer.php:1090
 msgid "You have entered an invalid coupon code."
-msgstr "She haben einen ungültigen Gutscheincode eingegeben. "
+msgstr "She haben einen ungültigen Gutscheincode eingegeben."
 
 #: include/wp-full-stripe-customer.php:1149
 msgid "Form not found or form do not use custom VAT rates!"
@@ -353,17 +353,17 @@ msgstr "Der Wert von “%s” ist zu lang."
 #. translators: message for Stripe error code 'invalid_number'
 #: include/wp-full-stripe-payments.php:275
 msgid "Your card number is invalid."
-msgstr "Ihre Kreditkartennummer ist ungültig"
+msgstr "Ihre Kreditkartennummer ist ungültig."
 
 #. translators: message for Stripe error code 'invalid_expiry_month'
 #: include/wp-full-stripe-payments.php:278
 msgid "Your card's expiration month is invalid."
-msgstr "Der Monat der Kreditkarte ist ungültig"
+msgstr "Der Monat der Kreditkarte ist ungültig."
 
 #. translators: message for Stripe error code 'invalid_expiry_year'
 #: include/wp-full-stripe-payments.php:281
 msgid "Your card's expiration year is invalid."
-msgstr "Das Jahr der Kreditkarte ist ungültig"
+msgstr "Das Jahr der Kreditkarte ist ungültig."
 
 #. translators: message for Stripe error code 'invalid_cvc'
 #: include/wp-full-stripe-payments.php:284
@@ -495,7 +495,7 @@ msgstr "Formularname"
 
 #: include/wp-full-stripe-tables.php:346 include/wp-full-stripe-tables.php:556
 msgid "&lt;Not specified&gt;"
-msgstr "Abonnement"
+msgstr "&lt;Abonnement&gt;"
 
 #: include/wp-full-stripe-tables.php:360 include/wp-full-stripe-tables.php:568
 #: pages/fullstripe_payments_page.php:36 pages/fullstripe_subscriptions_page.php:47
@@ -577,7 +577,7 @@ msgstr "Löschen (lokal)"
 
 #: include/wp-full-stripe-tables.php:591
 msgid "No payments found."
-msgstr "Keine Zahlungen gefunden"
+msgstr "Keine Zahlungen gefunden."
 
 #: pages/forms/fullstripe_checkout_form.php:76
 #: pages/forms/fullstripe_checkout_form.php:85
@@ -652,7 +652,7 @@ msgstr "Anwenden"
 msgid ""
 "This subscription form has no valid plans defined. Please check the settings!"
 msgstr ""
-"Dieses Zahlungsformular ist ungültig. Bitte überprüfen Sie die Einstellungen."
+"Dieses Zahlungsformular ist ungültig. Bitte überprüfen Sie die Einstellungen!"
 
 #: pages/forms/fullstripe_invalid_shortcode.php:1
 msgid ""
@@ -924,7 +924,7 @@ msgstr ""
 
 #: pages/fragments/create_checkout_form.php:86
 msgid "Payment Amount: "
-msgstr "Betrag:"
+msgstr "Betrag: "
 
 #: pages/fragments/create_checkout_form.php:91
 #: pages/fragments/create_payment_form.php:91
@@ -935,7 +935,7 @@ msgid ""
 "currency. i.e. for $10.00 enter 1000, for ¥10 enter 10."
 msgstr ""
 "Der Betrag, den dieses Formular Ihrem Kunden in der kleinsten Einheit für die "
-"Währung berechnet. d. h. für 10,00 $ geben Sie 1000 ein"
+"Währung berechnet. d. h. für 10,00 $ geben Sie 1000 ein."
 
 #: pages/fragments/create_checkout_form.php:96
 #: pages/fragments/create_payment_form.php:96
@@ -967,7 +967,7 @@ msgid ""
 "reorder the payment amounts."
 msgstr ""
 "Der Betrag in der kleinsten gemeinsamen Währungseinheit. d. h. für 10,00 $ geben "
-"Sie 1000 ein, für 10 ¥ geben Sie 10 ein. "
+"Sie 1000 ein, für 10 ¥ geben Sie 10 ein."
 
 #: pages/fragments/create_checkout_form.php:106
 #: pages/fragments/create_payment_form.php:106
@@ -1056,7 +1056,7 @@ msgstr "Ja"
 #: pages/fragments/create_checkout_form.php:127
 #: pages/fragments/edit_checkout_form.php:154
 msgid "Allow to use Bitcoin for payments."
-msgstr "Erlaube Bitcoin für Zahlungen"
+msgstr "Erlaube Bitcoin für Zahlungen."
 
 #: pages/fragments/create_checkout_form.php:133
 #: pages/fragments/edit_checkout_form.php:160
@@ -1333,7 +1333,7 @@ msgstr ""
 #: pages/fragments/edit_checkout_form_tab_appearance.php:130
 #: pages/fragments/edit_checkout_subscription_form_tab_appearance.php:130
 msgid "Popup Form Language: "
-msgstr "Popup-Anmeldeformular"
+msgstr "Popup-Anmeldeformular:"
 
 #: pages/fragments/create_checkout_form_tab_appearance.php:141
 #: pages/fragments/create_checkout_subscription_form_tab_appearance.php:141
@@ -1470,14 +1470,14 @@ msgstr "MWST Anteil:"
 #: pages/fragments/edit_checkout_subscription_form_tab_finance.php:40
 #: pages/fragments/edit_subscription_form_tab_finance.php:40
 msgid "VAT Percent with up to 4 decimal places."
-msgstr "MWST Anteil, bis zu vier Nachkommastelen"
+msgstr "MWST Anteil, bis zu vier Nachkommastelen."
 
 #: pages/fragments/create_checkout_subscription_form_tab_finance.php:42
 #: pages/fragments/create_subscription_form_tab_finance.php:42
 #: pages/fragments/edit_checkout_subscription_form_tab_finance.php:45
 #: pages/fragments/edit_subscription_form_tab_finance.php:45
 msgid "Collect Billing Address?"
-msgstr "Rechnungsadresse sammeln"
+msgstr "Rechnungsadresse sammeln?"
 
 #: pages/fragments/create_checkout_subscription_form_tab_finance.php:53
 #: pages/fragments/create_subscription_form_tab_finance.php:53
@@ -1616,7 +1616,7 @@ msgstr "Anzahl benutzerdefinierte Felder:"
 #: pages/fragments/create_payment_form_tab_custom_fields.php:77
 #: pages/fragments/edit_payment_form_tab_custom_fields.php:84
 msgid "Custom Input Label %d:"
-msgstr "Benutzerdefinierter Eingabe Titel: %d"
+msgstr "Benutzerdefinierter Eingabe Titel: %d:"
 
 #: pages/fragments/create_payment_form_tab_custom_fields.php:82
 #: pages/fragments/edit_payment_form_tab_custom_fields.php:89
@@ -1720,7 +1720,7 @@ msgstr "URL eingeben"
 
 #: pages/fragments/settings_tab_appearance.php:20
 msgid "Custom Form CSS: "
-msgstr "Eigenes Formmular CSS:"
+msgstr "Eigenes Formmular CSS: "
 
 #: pages/fragments/settings_tab_appearance.php:25
 msgid ""
@@ -1732,11 +1732,11 @@ msgstr ""
 
 #: pages/fragments/settings_tab_appearance.php:30
 msgid "Include Default Styles: "
-msgstr "Standard Style verwenden:"
+msgstr "Standard Style verwenden: "
 
 #: pages/fragments/settings_tab_appearance.php:35
 msgid "Include"
-msgstr "verwenden"
+msgstr "Verwenden"
 
 #: pages/fragments/settings_tab_appearance.php:39
 msgid "Exclude"
@@ -1752,7 +1752,7 @@ msgstr ""
 
 #: pages/fragments/settings_tab_email-receipts.php:22
 msgid "Receipt Email Type: "
-msgstr "Typ der Email Quittung:"
+msgstr "Typ der Email Quittung: "
 
 #: pages/fragments/settings_tab_email-receipts.php:27
 msgid "Plugin"
@@ -1768,7 +1768,7 @@ msgstr ""
 
 #: pages/fragments/settings_tab_email-receipts.php:39
 msgid "Plugin Email Templates: "
-msgstr "Plugin Email Templates:"
+msgstr "Plugin Email Templates: "
 
 #: pages/fragments/settings_tab_email-receipts.php:56
 msgid "E-mail Subject"
@@ -1782,7 +1782,7 @@ msgstr "E-mail body (HTML)"
 msgid ""
 "%CUSTOMERNAME% and %AMOUNT% are replaced with the name of the customer and "
 "payment amount, respectively."
-msgstr "%CUSTOMERNAME% und %AMOUNT% werden mit name und Zahlungsbetrag ersetzt"
+msgstr "%CUSTOMERNAME% und %AMOUNT% werden mit name und Zahlungsbetrag ersetzt."
 
 #: pages/fragments/settings_tab_email-receipts.php:61
 msgid "See the <a target=\"_blank\" href=\"%s\">Help page</a> for more options."
@@ -1802,7 +1802,7 @@ msgstr ""
 
 #: pages/fragments/settings_tab_email-receipts.php:79
 msgid "Send Copy of Emails?: "
-msgstr "Sende Kopie der Emails?:"
+msgstr "Sende Kopie der Emails?: "
 
 #: pages/fragments/settings_tab_email-receipts.php:88
 msgid "Yes, to the Website Admin"
@@ -1844,27 +1844,27 @@ msgstr ""
 
 #: pages/fragments/settings_tab_stripe.php:32
 msgid "API mode: "
-msgstr "API mode:"
+msgstr "API mode: "
 
 #: pages/fragments/settings_tab_stripe.php:47
 msgid "Stripe Test Secret Key: "
-msgstr "Stripe Test Secret Key:"
+msgstr "Stripe Test Secret Key: "
 
 #: pages/fragments/settings_tab_stripe.php:55
 msgid "Stripe Test Publishable Key: "
-msgstr "Stripe Test Publishable Key:"
+msgstr "Stripe Test Publishable Key: "
 
 #: pages/fragments/settings_tab_stripe.php:63
 msgid "Stripe Live Secret Key: "
-msgstr "Stripe Live Secret Key:"
+msgstr "Stripe Live Secret Key: "
 
 #: pages/fragments/settings_tab_stripe.php:71
 msgid "Stripe Live Publishable Key: "
-msgstr "Stripe Live Publishable Key:"
+msgstr "Stripe Live Publishable Key: "
 
 #: pages/fragments/settings_tab_stripe.php:82
 msgid "Stripe Webhook URL: "
-msgstr "Stripe Webhook URL:"
+msgstr "Stripe Webhook URL: "
 
 #: pages/fragments/settings_tab_stripe.php:89
 msgid ""
@@ -1876,7 +1876,7 @@ msgstr ""
 
 #: pages/fragments/settings_tab_users.php:20
 msgid "Lock e-mail address field for logged in users?: "
-msgstr "Lock e-mail address field for logged in users?:"
+msgstr "Lock e-mail address field for logged in users?: "
 
 #: pages/fullstripe_about_page.php:6
 msgid "Welcome to WP Full Stripe"
@@ -2126,15 +2126,15 @@ msgstr "Zahlungs Formular"
 
 #: pages/fullstripe_payments_page.php:30
 msgid "Customer: "
-msgstr "Kunde:"
+msgstr "Kunde: "
 
 #: pages/fullstripe_payments_page.php:30 pages/fullstripe_subscriptions_page.php:41
 msgid "Enter name, email address, or stripe ID"
-msgstr "Geben Sie einen Namen, eine E-Mail-Adresse oder eine Stripe-ID ein."
+msgstr "Geben Sie einen Namen, eine E-Mail-Adresse oder eine Stripe-ID ein"
 
 #: pages/fullstripe_payments_page.php:31
 msgid "Payment: "
-msgstr "Zahlung:"
+msgstr "Zahlung: "
 
 #: pages/fullstripe_payments_page.php:31
 msgid "Enter charge ID"
@@ -2142,7 +2142,7 @@ msgstr "Gebühren-ID eingeben"
 
 #: pages/fullstripe_payments_page.php:32 pages/fullstripe_subscriptions_page.php:43
 msgid "Mode: "
-msgstr "Modus:"
+msgstr "Modus: "
 
 #: pages/fullstripe_payments_page.php:34 pages/fullstripe_subscriptions_page.php:45
 msgid "All"
@@ -2173,7 +2173,7 @@ msgid ""
 "You have created no inline payment forms yet. Use the 'Create Inline Form' button "
 "to get started."
 msgstr ""
-"Noch keine Inline-Zahlungsformulare angelegt. Verwenden Sie das “Inline-Formular"
+"Noch keine Inline-Zahlungsformulare angelegt. Verwenden Sie das “Inline-Formular."
 
 #: pages/fullstripe_payments_page.php:73
 msgid "Title"
@@ -2236,11 +2236,11 @@ msgstr "Abbonements Pläne"
 
 #: pages/fullstripe_subscriptions_page.php:41
 msgid "Subscriber: "
-msgstr "Abbonement:"
+msgstr "Abbonement: "
 
 #: pages/fullstripe_subscriptions_page.php:42
 msgid "Subscription: "
-msgstr "Abonnemente:"
+msgstr "Abonnemente: "
 
 #: pages/fullstripe_subscriptions_page.php:42
 msgid "Enter subscription ID"
@@ -2251,7 +2251,7 @@ msgid ""
 "No inline subscription forms created yet. Use the 'Create Inline Form' button to "
 "get started."
 msgstr ""
-"Noch keine Inline-Zahlungsformulare angelegt. Verwenden Sie das “Inline-Formular"
+"Noch keine Inline-Zahlungsformulare angelegt. Verwenden Sie das “Inline-Formular."
 
 #: pages/fullstripe_subscriptions_page.php:84
 #: pages/fullstripe_subscriptions_page.php:164
@@ -2362,7 +2362,7 @@ msgid ""
 "plugin again."
 msgstr ""
 "WP Full Stripe kann eine erforderliche PHP-Erweiterung nicht finden :’%s’.<br/"
-"><br/>Bitte drücken Sie die” Zurück “-Browser-Taste, "
+"><br/>Bitte drücken Sie die” Zurück “-Browser-Taste."
 
 #: wp-full-stripe.php:53
 msgid ""
